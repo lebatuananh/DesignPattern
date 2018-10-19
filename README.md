@@ -19,6 +19,6 @@
   *  Khai báo factory method, trả về 1 object là loại product cụ thể. Creator có thể là factory method mặc định trả về ConcreteProduct object mặc định
   *  Có thể gọi đây là method factory để tạo ra Product Object 
 * ConcreteCreator: override factory method để trả về instance của ConcreteProduct
-3. Ví dụng về pattern method factory - [MethodFactory]()
+3. Ví dụng về pattern method factory - [MethodFactory](https://github.com/mramra3004/DesignPattern/tree/master/MethodFactory)
 
 
